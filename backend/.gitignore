@@ -1,5 +1,3 @@
-# Dependencies
 node_modules/
-package-lock.json
-# Environment variables
+uploads/
 .env
